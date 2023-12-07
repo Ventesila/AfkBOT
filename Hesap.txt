@@ -1,0 +1,3 @@
+send /login Arcade@Empire.1234
+wait 3 seconds
+send /opskyblock
